@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="LaBiaDe IsMaiL,LaBiaDe IsMaiL,IsMaiL,LaBiaDe,LaBiaDe IsMaiL,ismaillabiade,ismail,labiade">
+  <meta name="keywords" content="LaBiaDe IsMaiL,LaBiaDe IsMaiL,IsMaiL,LaBiaDe,LaBiaDe IsMaiL,ismaillabiade,ismail,labiade">
+  <meta name="author" content="LaBiaDe IsMaiL,LaBiaDe IsMaiL,IsMaiL,LaBiaDe,LaBiaDe IsMaiL,ismaillabiade,ismail,labiade">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>e-album | LaBiaDe IsMaiL</title>
+  <style>
+    .image-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin: 0 auto;
+      width: 80%; /* Adjust width as needed */
+    }
+    .image-container img {
+      width: 24%; /* Adjust width for 4 images per row */
+      margin: 10px;
+    }
+  </style>
+</head>
+<body style="overflow: hidden;">
+  <center><h1>LaBiaDe IsMaiL</h1></center>
+  <div class="image-container">
+    <img src="LaBiaDe IsMaiL.jpe" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpeg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpe" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpeg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">   
+    <img src="LaBiaDe IsMaiL.jpg" alt="LaBiaDe IsMaiL">
+    <img src="LaBiaDe IsMaiL.bmp" alt="LaBiaDe IsMaiL">
+    </div>
+</body>
+</html>
